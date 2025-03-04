@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello World!
 
+- I'm a student at KSA of KAIST
+- I'm interested in AI and Cryptography
 <!--
 **khr519/khr519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
